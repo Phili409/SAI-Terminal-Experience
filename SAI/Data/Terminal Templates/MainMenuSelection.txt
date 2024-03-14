@@ -1,0 +1,8 @@
+Select A Option:
+1. Play Music                               |
+2. Playlist Recommendation                  |
+3. Delete Past Recommendations              |
+4. Update Data                              |
+                                            |
+
+---------------------------------------------

@@ -1,0 +1,7 @@
+                    SAI
+              Welcome to SAI!
+
+    SAI Is A Tailored Spotify playlist maker
+          Press Enter Key To Start
+
+
